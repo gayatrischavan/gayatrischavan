@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/gayatri-hero.svg" alt="Gayatri Chavan - Developer Profile" width="100%">
+</p>
 # 👋 Hi, I'm Gayatri Chavan
 
 ### Full Stack Developer | .NET | React | PostgreSQL | Playwright E2E Testing
